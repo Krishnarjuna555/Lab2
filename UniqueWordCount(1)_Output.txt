@@ -1,0 +1,28 @@
+"Lorem" 1
+"ipsum" 1
+"dolor" 1
+"sit" 2
+"amet," 1
+"consectetur" 1
+"adipiscing" 1
+"elit." 1
+"Donec" 1
+"condimentum" 1
+"elit" 2
+"vel" 1
+"mauris" 1
+"varius," 2
+"id" 1
+"laoreet" 1
+"tortor" 1
+"placerat." 1
+"Nulla" 1
+"scelerisque" 1
+"felis" 1
+"ac" 1
+"risus" 1
+"amet" 1
+"luctus" 1
+"mattis." 1
+Colab paid products - Cancel contracts here
+
