@@ -1,0 +1,17 @@
+"a,man" 1
+"man,a" 1
+"a,plan" 2
+"plan,a" 1
+"a,canal" 3
+"canal,panama" 1
+"panama,there" 1
+"there,was" 1
+"was,a" 1
+"plan,to" 1
+"to,build" 1
+"build,a" 1
+"canal,in" 1
+"in,panama" 2
+"panama,in" 1
+"panama,a" 1
+"was,built" 1
